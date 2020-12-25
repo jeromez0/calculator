@@ -4,11 +4,11 @@
 
 ### 1. git clone repo
 
-### 2. cd alculator/src
+### 2. cd calculator/src
 
 ### 3. run the following command in the terminal
 
  > python3 main.py
  
- ![screenshot](https://github.com/jeromez0/CompoundingInterestCalculator/blob/main/public/AppScreenshot.png)
+ ![screenshot](https://github.com/jeromez0/Calculator/blob/main/public/AppScreenshot.png)
  
